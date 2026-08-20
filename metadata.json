@@ -1,0 +1,6 @@
+{
+  "name": "Mumbai Local 2000s",
+  "description": "An immersive, cinematic 3D nostalgic journey through the 2000s Mumbai suburban railway with animated EMU trains, dynamic destination boards, authentic soundscapes, and monsoon atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
